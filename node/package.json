@@ -1,0 +1,17 @@
+{
+  "name": "soropay",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "contract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node contract.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^12.3.0"
+  }
+}
